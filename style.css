@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-image: url("black.jpg");
+  background-size: cover;
+}
+
+canvas {
+  background-image: url("background.jpg");
+  background-size: cover;
+  
+  display: block;
+  margin: 0 auto;
+}
